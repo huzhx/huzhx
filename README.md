@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @huzhx
-- 👀 I’m interested in Data Structures & Algorithms, React, Microservices, Object-oriented Design Patterns, Test-driven Developments
+- 👀 I’m interested in Data Structures & Algorithms, React, Node.js, Microservices, Object-oriented Design Patterns, Test-driven Developments
 - 📫 You can reach me at huzhx@uci.edu
 
 <!---
